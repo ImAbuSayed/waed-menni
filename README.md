@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> حبيبتي في حضني الليل يطول
+> نار الشوق في قلبي على طول
+> تعالي في حضني يا كل الغرام
+> وياك نسيت كل الكلام
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
