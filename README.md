@@ -1,6 +1,6 @@
 # Waed Menni
 
-![Waed Menni feature image](https://raw.githubusercontent.com/ImAbuSayed/abu-sayed-song-media/main/songs/waed-menni/feature/20260422184748-ChatGPT-Image-Apr-23-2026-12_46_24-AM.png)
+![Waed Menni feature image](https://raw.githubusercontent.com/ImAbuSayed/abu-sayed-song-media/main/songs/waed-menni/feature/20260504112458-Waed-Menni.webp)
 
 ---
 
@@ -16,6 +16,7 @@
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
 | Lyric Writing Date | April 22, 2026 |
 | Song Creation Date | April 23, 2026 |
+| Official Release Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/waed-menni/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -31,6 +32,13 @@
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
+
+---
+
+## Song Links
+
+- [Website](https://abusayed.com.bd/projects/waed-menni/)
+- [YouTube](https://www.youtube.com/watch?v=EWTtepgA9dc)
 
 ---
 
