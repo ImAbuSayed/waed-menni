@@ -19,6 +19,7 @@
 | Official Release Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/waed-menni/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License this song: Waed Menni](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=EWTtepgA9dc?https://imabusayed.github.io/waed-menni/) |
 | Artist | Abu Sayed |
 
 ---
